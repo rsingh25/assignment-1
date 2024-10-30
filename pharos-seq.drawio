@@ -1,17 +1,37 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="MdFUuiO9aswlXjgDGJG3">
-    <mxGraphModel dx="2318" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2330" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KE8k6S72q1i-HY503mFW-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-60" width="1260" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-37" target="KE8k6S72q1i-HY503mFW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-37" target="KE8k6S72q1i-HY503mFW-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-37" target="KE8k6S72q1i-HY503mFW-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="130" width="190" height="410" as="geometry" />
+          <mxGeometry x="720" y="130" width="360" height="410" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="140" width="190" height="410" as="geometry" />
+          <mxGeometry x="1210" y="120" width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-1" target="KE8k6S72q1i-HY503mFW-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-1" target="KE8k6S72q1i-HY503mFW-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="393" />
+              <mxPoint x="240" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-1" value="F5&lt;div&gt;+ iRules&lt;/div&gt;&lt;div&gt;+ Validations&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="85" width="50" height="410" as="geometry" />
@@ -40,7 +60,7 @@
         <mxCell id="KE8k6S72q1i-HY503mFW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-7" target="KE8k6S72q1i-HY503mFW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KE8k6S72q1i-HY503mFW-7" value="API GW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KE8k6S72q1i-HY503mFW-7" value="API GW&lt;div&gt;Throttle by API key&lt;/div&gt;&lt;div&gt;Tenant ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-9" value="Lambda Authorizer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -61,32 +81,86 @@
         <mxCell id="KE8k6S72q1i-HY503mFW-15" value="Orchestrator&lt;div&gt;(apache Camal)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="255" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KE8k6S72q1i-HY503mFW-17" value="ECS Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="745" y="160" width="140" height="70" as="geometry" />
+        <mxCell id="KE8k6S72q1i-HY503mFW-17" value="Domain Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="150" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-19" target="KE8k6S72q1i-HY503mFW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KE8k6S72q1i-HY503mFW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-19" target="KE8k6S72q1i-HY503mFW-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KE8k6S72q1i-HY503mFW-48" value="Auth Code Flow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE8k6S72q1i-HY503mFW-21">
+          <mxGeometry x="-0.3404" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="39" y="290" as="sourcePoint" />
+            <mxPoint x="109" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-49" value="scp, persona" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE8k6S72q1i-HY503mFW-22">
+          <mxGeometry x="-0.2835" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="260" width="30" height="60" as="geometry" />
+          <mxGeometry x="-65" y="265" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-20" value="OKTA" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KE8k6S72q1i-HY503mFW-23" value="Couchbase&lt;div&gt;(No SQL distributed db)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="170" width="140" height="70" as="geometry" />
+        <mxCell id="KE8k6S72q1i-HY503mFW-23" value="Couchbase&lt;div&gt;(No SQL distributed db)&lt;/div&gt;&lt;div&gt;(Tenant id)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="150" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-27" value="RDS Aurora Global" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="270" width="140" height="70" as="geometry" />
+          <mxGeometry x="1235" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-30" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="380" width="140" height="60" as="geometry" />
+          <mxGeometry x="350" y="650" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KE8k6S72q1i-HY503mFW-39" value="Kafka Proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="450" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-41" target="KE8k6S72q1i-HY503mFW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-50" value="confidential&amp;nbsp;&lt;div&gt;5client f;pw&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE8k6S72q1i-HY503mFW-42">
+          <mxGeometry x="-0.0662" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-41" value="Interfacing Apps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-45" value="Git config server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="-20" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-52" value="S3, KMS, Elatic cache, Elastic Search, Business events, Cloud formation/AWS CDK, CloudBEES, Dynatrace, Step function, spinnaker for deployment, cloudbees build, SNS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="770" width="1165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-55" value="WFM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="255" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-56" value="WFE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-59" target="KE8k6S72q1i-HY503mFW-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-59" target="KE8k6S72q1i-HY503mFW-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-59" value="EMR&lt;div&gt;(Spark jobs)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="540" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE8k6S72q1i-HY503mFW-61" target="KE8k6S72q1i-HY503mFW-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-61" value="Airflow Scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="425" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE8k6S72q1i-HY503mFW-63" value="Sterling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="540" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
